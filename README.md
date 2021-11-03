@@ -4,10 +4,10 @@
 Write a program that calculates the value of the function. The function given in the form of a graph.
 In lab2_1.go variant 12 as example.
 
-![Alt text](task1.png?raw=true "Task")
+<img alt="Alt text" src="task1.png" title="Task" width="200"/>
 
 <h2>Task 2. Hitting a point In the shaded area</h2>
 Write a program that determines whether the point with the given coordinates are in the black area.
 In lab2_2.go variant 1 as example.
 
-![Alt text](task2.png?raw=true "Task")
+<img alt="Alt text" src="task2.png?raw=true" title="Task" width="200"/>
